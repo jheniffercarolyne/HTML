@@ -1,0 +1,19 @@
+body {
+    bacground: #CCCCCC
+}
+
+h1 {
+    style="text-align: center"
+}
+
+p {
+    text-align: center
+}
+
+#missao {
+   font-size: 20px
+}
+
+em strong {
+    color: #FF0000
+}
