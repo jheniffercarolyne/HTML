@@ -2,12 +2,16 @@ body {
     bacground: #CCCCCC
 }
 
+#banner {
+    width:100%;
+}
+
 h1 {
     style="text-align: center"
 }
 
 p {
-    text-align: center
+    text-align: center;
 }
 
 #missao {
@@ -15,5 +19,9 @@ p {
 }
 
 em strong {
-    color: #FF0000
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic
 }
